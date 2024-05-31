@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Quarto.ico</file>
+    </qresource>
+</RCC>
